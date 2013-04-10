@@ -1,0 +1,16 @@
+{
+  "author": "Jon Spencer <jon@jonspencer.ca>",
+  "name": "lessify-middleware",
+  "description": "connect middleware to serve compiled less files",
+  "version": "0.0.0",
+  "repository": {
+    "url": "https://github.com/jhs67/lessify-middleware.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "less": ">=1.3.0"
+  },
+  "devDependencies": {}
+}
